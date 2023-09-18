@@ -14,7 +14,7 @@ My interests include: <br>
 <ul>
   <li>Data Science</li>
   <li>Robotics</li>
-  <li>Cooking</li>
+  <li>Health and Medicine</li>
 </ul>
 </p>
 
