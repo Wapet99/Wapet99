@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm William - professional engineer specialised in Machine Learning, Data Science, and Robotics 
-Having written my first "Hello World!"-style program over 10 years ago, and trained my first machine learning model over 6 years ago, I have spent much of my life working across different programming languages for a range of applications.  
+Having written my first "Hello World!"-style program over 10 years ago, and trained my first machine learning model over 6 years ago, I have spent much of my life working across different programming languages for a range of applications, including: data science, technical simulations, robotics, machine learning, game development, and web development.  
 
 ## 🌟 Snapshot
 - Machine Learning Engineer specialising in **computer vision**, **LLMs/RAG**, and **end‑to‑end ML systems**
