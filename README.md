@@ -16,13 +16,13 @@ Having written my first "Hello World!"-style program over 10 years ago, and trai
 
 ## 🛠️ Skills
 **Programming:** Python, C/C++, SQL, Bash, MATLAB  
-**ML/AI:** PyTorch, OpenCV, Scikit‑learn, NumPy, Pandas, LLMs, RAG, Computer Vision  
+**ML/AI:** PyTorch, OpenCV, Scikit‑learn, NumPy, Pandas, LLMs, LangChain, LangGraph, RAG, Computer Vision  
 **ML Engineering:** Model training, evaluation, optimisation, API development, data pipelines  
 **Cloud:** GCP (BigQuery, Looker), AWS (EC2, S3, ECS, ALB), Terraform  
 **Frameworks:** FastAPI, Flask, React  
 **Tools:** Docker, Git, Jira, Confluence  
 
-## 🏅 Certifications
+## 🏅 Certs
 
 ### Business Analysis & Delivery
 ![Microsoft Business Analyst](https://img.shields.io/badge/Microsoft-Business%20Analyst%20Professional-blue?logo=microsoft)
